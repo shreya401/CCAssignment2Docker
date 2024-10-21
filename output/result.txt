@@ -1,0 +1,22 @@
+
+Files and directories in ./data/ : ['AlwaysRememberUsThisWay.txt', 'IF.txt']
+
+no.of words in AlwaysRememberUsThisWay.txt: 223
+no.of words in IF.txt: 287
+
+total no.of words in both files: 510
+
+no.of words in AlwaysRememberUsThisWay.txt after contractions: 242
+no.of words in IF.txt after contractions: 301
+
+total no.of words in both files after contractions: 543
+
+the 3 top max frequent words in IF.txt: [('you', 14), ('If', 13), ('can', 12)]
+
+the 3 top max frequent words in IF.txt after contractions: [('you', 20), ('and', 20), ('if', 14)]
+
+the 3 top max frequent words in AlwaysRememberUsThisWay.txt: [('the', 12), ('I', 8), ('And', 7)]
+
+the 3 top max frequent words in AlwaysRememberUsThisWay.txt after contractions: [('i', 15), ('the', 13), ('t', 9)]
+
+Computer IP Address is: 127.0.0.1
