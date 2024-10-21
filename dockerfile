@@ -10,6 +10,4 @@ RUN pip install collection
 RUN pip install sockets
 
 RUN python app.py
-# CMD ["python", "./app.py"]
-
 CMD ["cat", "/home/output/result.txt"]
